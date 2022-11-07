@@ -13,7 +13,7 @@ At present, this program can:
 * calculate tf-idf scores for every document in the corpus
 * compare a set of selected documents and visualize the comparison
 
->This code was tested on a local machines, on Windows, using VSCode and Python 3.9.13 via Anaconda.
+>This code was tested on a local machine, on Windows, using VSCode and Python 3.9.13 via Anaconda.
 
 Gabor Parti, 2022 October
 
