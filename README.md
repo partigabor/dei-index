@@ -15,10 +15,6 @@ At present, this program can:
 
 >This code was tested on a local machine, on Windows, using VSCode and Python 3.9.13 via Anaconda.
 
-Gabor Parti, 2022 October
-
-If you have any questions, contact me at gabor.parti@connect.polyu.hk
-
 <!-- ## Examples
 
 All three examples below show a segment of observations from a 200 million-word corpus of company reports, using TF-IDF (term frequency–inverse document frequency) scores:
